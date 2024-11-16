@@ -70,7 +70,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `email`, `role`, `pw_hash`) VALUES
-(1, 'samrafif', 'abrisam.rm@gmail.com', 'user', 'f953abd51c33d158f46e9034b1937b3c3890b0cc'),
+(1, 'muftipoll', 'muftiarifudintaqy0@gmail.com', 'user', 'f953abd51c33d158f46e9034b1937b3c3890b0cc'),
 (2, 'admin', 'admin@gmail.com', 'admin', 'cd5ea73cd58f827fa78eef7197b8ee606c99b2e6'),
 (4, 'tamu', 'tamu@gmail.com', 'user', 'd5c9214540af1b0f8e28ccdef041a74e4cf899ae'),
 (5, 'vonlycaon', 'von.lycaon@zenless.hoyoverse.com', 'user', 'b0399d2029f64d445bd131ffaa399a42d2f8e7dc');

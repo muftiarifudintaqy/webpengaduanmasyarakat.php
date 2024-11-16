@@ -46,7 +46,7 @@ if ($result->num_rows > 0) {
         <div class="card">
             <div class="card-header">
                 <h2>Manager Dashboard</h2>
-            </div>
+            </div
 
             <div class="card-body">
                 <h3>Welcome <?php echo $_SESSION["username"]; ?></h3>
